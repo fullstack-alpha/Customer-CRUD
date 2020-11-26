@@ -1,4 +1,4 @@
-package com.customer.service.controller;
+package com.customer.controller;
 
 import static org.mockito.Mockito.when;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.delete;
